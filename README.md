@@ -197,13 +197,4 @@ Data Analyst | SQL | Power BI | Microsoft Fabric
 * Génération d’insights actionnables
 * Projet directement exploitable en entreprise
 
----
-
-Si tu veux, je peux aussi te proposer :
-
-* ✅ Une version plus “GitHub premium” orientée recrutement
-* ✅ Une version en anglais
-* ✅ Une structure de repository (dossiers + organisation des requêtes SQL)
-* ✅ Un README optimisé pour attirer les recruteurs Data
-
 
