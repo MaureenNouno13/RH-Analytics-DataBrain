@@ -1,6 +1,3 @@
-Voici ton fichier **README.md** structuré et prêt à être utilisé sur GitHub :
-
----
 
 # 📊 Projet RH Analytics – SQL (PostgreSQL)
 
@@ -208,4 +205,5 @@ Si tu veux, je peux aussi te proposer :
 * ✅ Une version en anglais
 * ✅ Une structure de repository (dossiers + organisation des requêtes SQL)
 * ✅ Un README optimisé pour attirer les recruteurs Data
+
 
